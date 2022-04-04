@@ -1,2 +1,2 @@
-# Overworldlife-nft-minting-backend
-NFT minting site
+# nft-minting-backend
+ethers + node
